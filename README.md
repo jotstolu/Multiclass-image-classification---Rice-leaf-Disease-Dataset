@@ -1,1 +1,1 @@
-# Multiclass-image-classification---Rice-leaf-Disease-Dataset
+# Multiclass-image-classification: Rice-leaf-Disease-Dataset
